@@ -26,4 +26,11 @@ ring-type: cobwebby=c,evanescent=e,flaring=f,large=l,none=n,pendant=p,sheathing=
 spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r,orange=o,purple=u,white=w,yellow=y
 population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
 habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
-#Copying the original data
+
+
+## Algorithm used for prediction
+Logistic regression
+Support vector Machines
+Random Forest
+Extreme Gradient Boosting
+Decision Trees
